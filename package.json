@@ -1,0 +1,14 @@
+{
+  "name": "api-test-developer-backend",
+  "version": "1.0.0",
+  "description": "api test creada para una prueba de conocimientos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Inostroza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
