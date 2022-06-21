@@ -68,3 +68,8 @@ Open `./.env` ahí se encuentra:
 ## La documentación de apis
 
     Para la documentación de las apis se puede ingresar al path /docs
+
+
+## Recomendación bug mamp osx
+
+    Si no reconoce el motor localmente, descomentar linea 9 del archivo db.config (socketPath: '/Applications/MAMP/tmp/mysql/mysql.sock')
